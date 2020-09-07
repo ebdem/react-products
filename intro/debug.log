@@ -1,0 +1,16 @@
+[0810/125842.889:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0810/125842.897:ERROR:exception_snapshot_win.cc(98)] thread ID 13452 not found in process
+[0810/125842.889:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0810/125842.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0810/125842.898:ERROR:exception_snapshot_win.cc(98)] thread ID 11660 not found in process
+[0810/125842.898:ERROR:exception_snapshot_win.cc(98)] thread ID 20820 not found in process
+[0810/125842.901:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0810/125842.902:ERROR:exception_snapshot_win.cc(98)] thread ID 5092 not found in process
+[0810/125842.903:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0810/125842.903:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0810/125842.903:ERROR:exception_snapshot_win.cc(98)] thread ID 23528 not found in process
+[0810/125842.903:ERROR:exception_snapshot_win.cc(98)] thread ID 19956 not found in process
+[0810/125842.913:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0810/125842.913:ERROR:exception_snapshot_win.cc(98)] thread ID 22760 not found in process
+[0810/125842.940:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0810/125842.940:ERROR:exception_snapshot_win.cc(98)] thread ID 15812 not found in process
